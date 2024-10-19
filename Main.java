@@ -26,11 +26,7 @@ class Main {
         if (gameOver) {
           System.out.println("Player " + player + " has won: ");
         } else {
-          // if (player == 'X') {
-          // player = 'O';
-          // } else {
-          // player = 'X';
-          // }
+  
           player = (player == 'X') ? 'O' : 'X';
         }
       } else {
