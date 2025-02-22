@@ -22,8 +22,8 @@ The **Tic-Tac-Toe Game** is a classic two-player strategy game built using **HTM
 
 ### 1️⃣ Clone the repository:  
 ```sh  
-git clone https://github.com/Sudhanshushekhar6/tic-tac-toe-web.git  
-cd tic-tac-toe-web  
+git clone https://github.com/Sudhanshushekhar6/tic-tac-toe.git  
+cd tic-tac-toe 
 ```
 
 ### 2️⃣ Open the `index.html` file in a browser:  
