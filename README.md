@@ -1,53 +1,45 @@
-# 🎮 Tic-Tac-Toe Game in Java
+# 🎮 Tic-Tac-Toe Game in HTML, CSS & JavaScript
 
-## 🏆 Overview
-The **Tic-Tac-Toe Game** is a classic two-player strategy game built using **Java**. This project provides a simple yet engaging way to experience the game, featuring a well-structured interface, smooth gameplay logic, and an interactive **Player vs. Player mode**. Whether you're a beginner learning Java or a game enthusiast, this project is a great way to explore **game development concepts**! 🎲✨
+## 🏆 Overview  
+The **Tic-Tac-Toe Game** is a classic two-player strategy game built using **HTML, CSS, and JavaScript**. It features a sleek, responsive design, smooth animations, and an interactive **Player vs. Player mode**. Whether you're a beginner in web development or a game enthusiast, this project is a great way to explore **front-end development concepts**! 🎲✨  
 
-## 🚀 Features
+## 🚀 Features  
 
-- 🎨 **User-Friendly Interface** – Clean and interactive UI for a seamless experience.
-- 👥 **Player vs. Player Mode** – Challenge a friend in a classic 1v1 match.
-- ⚡ **Efficient Game Logic** – Ensures fair and smooth gameplay.
-- 🔄 **Automatic Turn Switching** – Keeps track of player moves with no confusion.
-- ✅ **Win Detection & Draw Handling** – Instantly detects when a player wins or when the game ends in a draw.
-- 🎯 **Perfect for Java Beginners** – Great for understanding Java OOP concepts and logic structuring.
+- 🎨 **Modern UI** – Clean and responsive interface for all devices.  
+- 👥 **Player vs. Player Mode** – Play a 1v1 match with a friend.  
+- ⚡ **Smooth Gameplay** – Instant move updates with efficient game logic.  
+- 🔄 **Turn Switching** – Automatically switches turns between players.  
+- ✅ **Win & Draw Detection** – Highlights the winner and detects draws.  
+- 📱 **Fully Responsive** – Works seamlessly on desktop and mobile.  
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used  
 
-- **Programming Language**: Java ☕
-- **Development Environment**: Any Java-supported IDE (Eclipse, IntelliJ, VS Code, etc.)
-- **Concepts Used**: Object-Oriented Programming (OOP), 2D Arrays, Conditional Statements, Loops
+- **HTML** – Structure of the game board.  
+- **CSS** – Styling and animations for an engaging UI.  
+- **JavaScript** – Game logic and dynamic interactions.  
 
-## 📌 How to Run the Game
+## 📌 How to Play  
 
-### 1️⃣ Clone the repository:
-```sh
-git clone https://github.com/Sudhanshushekhar6/tic-tac-toe-java.git
-cd tic-tac-toe-java
+### 1️⃣ Clone the repository:  
+```sh  
+git clone https://github.com/Sudhanshushekhar6/tic-tac-toe-web.git  
+cd tic-tac-toe-web  
 ```
 
-### 2️⃣ Compile the Java files:
-```sh
-javac TicTacToe.java
-```
+### 2️⃣ Open the `index.html` file in a browser:  
+Simply open the file in **Chrome, Firefox, or Edge** to start playing!  
 
-### 3️⃣ Run the game:
-```sh
-java TicTacToe
-```
+## 🎯 Future Enhancements  
 
-## 🎯 Future Enhancements
+- 🤖 **AI Mode** – Play against a computer opponent.  
+- 🌐 **Multiplayer Online Mode** – Challenge friends remotely.  
+- 📊 **Scoreboard System** – Keep track of wins and losses.  
 
-- 🤖 **AI Opponent Mode** – Play against a computer-powered bot.
-- 🎨 **Graphical UI** – Upgrade from console-based to a GUI version.
-- 🌐 **Multiplayer Online Mode** – Play with friends remotely.
-- 📊 **Scoreboard System** – Track wins and losses over multiple rounds.
+## 📜 License  
+This project is licensed under the **MIT License**.  
 
-## 📜 License
-This project is licensed under the **MIT License**.
+## ❤️ Contributing  
+Contributions are welcome! Fork the repo and submit pull requests to improve the game.  
 
-## ❤️ Contributing
-Contributions are welcome! Feel free to fork this repository and submit pull requests to enhance the game.
-
-## 🎭 Disclaimer
+## 🎭 Disclaimer  
 This project is for educational and entertainment purposes only. Enjoy playing! 🎉
